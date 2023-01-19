@@ -1,0 +1,163 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#b6b4b4;
+}
+
+h1{
+    font-family: 'Roboto Mono', monospace;
+    text-align:center;
+}
+
+.introduction{
+    text-align:left;
+font-size: 25px;
+    font-family: 'Anybody', cursive;
+
+}
+
+.titler{
+  
+background-color: blue;
+color:#fffafa;
+font-size:20px;}
+
+
+
+.experience{
+text-align:center;}
+
+img{width:150px;}
+
+
+.titlename{font-family: 'Poppins', sans-serif;
+font-size:18px;}
+
+
+
+
+
+
+
+
+
+
+.projecto{
+    margin:15px;
+    border: 5px;
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;
+}
+
+.contact{
+    margin:15px;
+    border: 5px;
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;
+	}
+
+.about{
+    
+    margin:15px;
+    border: 5px;
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;
+	}
+
+.donuts{
+    display:flex;
+   justify-content: center;
+    background-color:purple;
+}
+
+.home{
+margin:15px;
+    border: 5px;
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;
+}
+
+.hlome{display:flex;
+   justify-content: center;
+    background-color:red;
+}
+
+.aboute{
+    
+    margin:15px;
+    border: 5px;
+    background-color: black;
+  	border: none;
+  	color: white;
+  	padding: 8px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	font-family: 'Abril Fatface', cursive;
+	font-family: 'Kanit', sans-serif;
+	}
+
+.emailz{
+    text-align:center;
+font-size: 25px;
+    font-family: 'Anybody', cursive;}
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.resumett{display:flex;
+   justify-content: center;
+    background-color:#18cd1b;
+}
+
+.resumerest:hover{transform: scale(2);}
