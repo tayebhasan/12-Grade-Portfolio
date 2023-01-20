@@ -1,7 +1,7 @@
 html, body {
-  height: 100%;
-  width: 100%;
   background-color:#b6b4b4;
+  height: 60%
+  width: 60%
 }
 
 h1{
@@ -9,10 +9,11 @@ h1{
     text-align:center;
 }
 
-.introduction{
+.introducter{
     text-align:left;
-font-size: 25px;
+font-size: 12px;
     font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
 
 }
 
@@ -24,10 +25,8 @@ font-size:20px;}
 
 
 
-.experience{
-text-align:center;}
 
-img{width:150px;}
+
 
 
 .titlename{font-family: 'Poppins', sans-serif;
@@ -130,6 +129,12 @@ margin:15px;
 	font-family: 'Kanit', sans-serif;
 	}
 
+
+.reachingout{font-size:25px;
+  font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
+}
+
 .emailz{
     text-align:center;
 font-size: 25px;
@@ -155,9 +160,65 @@ a:active {
   color: blue;
 }
 
-.resumett{display:flex;
+.resumerest{display:flex;
    justify-content: center;
-    background-color:#18cd1b;
+    background-color:#ffffff;
 }
 
-.resumerest:hover{transform: scale(2);}
+
+.resumerest:hover{transform: scale(1.5);}
+
+.resumerest{
+  width:300px;
+  height:auto;
+}
+
+
+.zombs{
+  width:300px;
+}
+
+.gallery{
+  width:300px;
+}
+
+.char{
+  width:300px;
+}
+
+.bmii{
+  width:300px;
+}
+      
+          
+.zombstalk{
+    text-align:center;
+font-size: 30px;
+    font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
+
+}
+
+.gal{
+    text-align:center;
+font-size: 30px;
+    font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
+
+}
+
+.character{
+    text-align:center;
+font-size: 30px;
+    font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
+
+}
+
+.bmi{
+    text-align:center;
+font-size: 30px;
+    font-family: 'Anybody', cursive;
+  font-stretch:extra-condensed;
+
+}
